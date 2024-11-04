@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" min-width="300px" max-width="1500px" width="550px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" min-width="300px" max-width="1500px" width="650px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
 
 <p align="left"> 
 
@@ -24,7 +24,7 @@
 
 <div align="center">
   
-### Contacts 📩
+### Contatos 📩
 
 <p align="left">
 
@@ -52,7 +52,7 @@
 
 <div align="center">
   
-### Tools 🖥️
+### Ferramentas 🖥️
 
 <p align="left">
 
