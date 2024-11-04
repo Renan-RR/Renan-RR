@@ -4,11 +4,11 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" min-width="300px" max-width="1500px" width="450px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" min-width="300px" max-width="1500px" width="400px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
 
 <p align="left"> 
 
-- Me chamo Renan! Desde que comecei a estudar Ciência da Computação em 2021, em me envolvo e me apaixono por essa área de tecnologia. Concluí estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura tecnológica. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+- Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação em 2021, em me envolvo e me apaixono por essa área de tecnologia. Concluí estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura tecnológica. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
