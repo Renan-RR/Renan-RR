@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" min-width="300px" max-width="1500px" width="475px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" min-width="300px" max-width="1500px" width="500px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
 
 <p align="left"> 
 
@@ -73,7 +73,7 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" min-width="300px" max-width="1500px" width="500px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" min-width="300px" max-width="1500px" width="570px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
 
 <p align="left"> 
 
