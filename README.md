@@ -73,7 +73,7 @@
 </div>
 <br>
 
-<img src="https://media.discordapp.net/attachments/1303005627278299247/1303163029277507594/welcome_to_my_github.gif?ex=672ac0a5&is=67296f25&hm=a9e1f79d9ea67cc6d5c421fcf3c47da63b76cffc8208145940323b4acdb69b24&=" min-width="300px" max-width="1500px" width="515px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
+<img src="https://media.discordapp.net/attachments/1303005627278299247/1303163029277507594/welcome_to_my_github.gif?ex=672ac0a5&is=67296f25&hm=a9e1f79d9ea67cc6d5c421fcf3c47da63b76cffc8208145940323b4acdb69b24&=" min-width="300px" max-width="1500px" width="475px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
 
 <p align="left"> 
 
