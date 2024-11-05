@@ -17,7 +17,7 @@
 
 
 
-> Atualmente eu me desenvolvo cada vez mais em linguagens de programação, sistemas operacionais e cada dia sigo aperfeiçoando meu inglês! 💼🖱️
+> Atualmente eu me desenvolvo cada vez mais em linguagens de programação, sistemas operacionais e cada dia sigo aperfeiçoando meu inglês! 💼💻
 
 <br />
 <br>
@@ -86,7 +86,7 @@
 
 
 
-> I'm consistently enhancing my skills in programming languages and operating systems while also making daily progress in improving my English. 💼🖱️
+> I'm consistently enhancing my skills in programming languages and operating systems while also making daily progress in improving my English. 💼💻
 
 <br />
 <br>
