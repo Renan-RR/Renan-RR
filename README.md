@@ -86,7 +86,7 @@
 
 
 
-> I'm continuously advancing my skills in programming languages, operating systems, and improving my English every day! 💼🖱️
+> I'm consistently enhancing my skills in programming languages and operating systems while also making daily progress in improving my English. 💼🖱️
 
 <br />
 <br>
