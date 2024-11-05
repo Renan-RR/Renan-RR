@@ -73,7 +73,7 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" width="500px" align="right" alt="Imagem de apresentação">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" width="420px" align="right" alt="Imagem de apresentação">
 
 <p align="left">
 
