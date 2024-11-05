@@ -73,11 +73,11 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" width="420px" align="right" alt="Imagem de apresentação">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" width="460px" align="right" alt="Imagem de apresentação">
 
 <p align="left">
 
-> My name is Renan Robson! Since beginning my studies in Computer Science at Universidade Municipal de São Caetano do Sul in 2021, I have grown increasingly involved in about the field of technology. I completed my internship in IT at SEME - Municipal Department of Sports and Leisure, where I worked with user support and technological infrastructure. Feel free to check out more about my internship at <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+> My name is Renan Robson! Since starting my Computer Science studies at Universidade Municipal de São Caetano do Sul in 2021, I've become deeply engaged in technology. I completed an IT internship at SEME (Municipal Department of Sports and Leisure), focusing on user support and infrastructure. Feel free to learn more about my internship on <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
