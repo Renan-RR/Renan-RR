@@ -8,7 +8,7 @@
 
 <p align="left"> 
 
-- Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação em 2021, em me envolvo e me apaixono por essa área de tecnologia. Concluí estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura tecnológica. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação em 2021, em me envolvo e me apaixono por essa área de tecnologia. Concluí estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura tecnológica. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
@@ -17,7 +17,7 @@
 
 
 
-- Atualmente eu me desenvolvo cada vez mais em linguagens de programação, sistemas operacionais e cada dia sigo aperfeiçoando meu inglês! 💼🖱️
+> Atualmente eu me desenvolvo cada vez mais em linguagens de programação, sistemas operacionais e cada dia sigo aperfeiçoando meu inglês! 💼🖱️
 
 <br />
 <br>
