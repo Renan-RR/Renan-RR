@@ -1,6 +1,6 @@
 <div align="center">
   
-### Quem sou eu? 🙋🏼‍♂️
+### Sobre mim 🙋🏼‍♂️
 </div>
 <br>
 
