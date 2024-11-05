@@ -8,7 +8,7 @@
 
  <p align="left">
 
-> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação em 2021 na USCS - Universidade Municipal de São Caetano do Sul, em me envolvo e me apaixono por essa área de tecnologia cada vez mais. Concluí estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura tecnológica. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação em 2021 na Universidade Municipal de São Caetano do Sul, em me envolvo nessa área de tecnologia cada vez mais. Concluí meu estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
@@ -77,7 +77,7 @@
 
 <p align="left">
 
-> My name is Renan Robson! Since beginning my studies in Computer Science at USCS - Universidade Municipal de São Caetano do Sul in 2021, I have grown increasingly involved in and passionate about the field of technology I completed an internship in IT at SEME - Municipal Department of Sports and Leisure, where I worked with user support and technological infrastructure. Feel free to check out more about my internship at <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+> My name is Renan Robson! Since beginning my studies in Computer Science at Universidade Municipal de São Caetano do Sul in 2021, I have grown increasingly involved in about the field of technology. I completed my internship in IT at SEME - Municipal Department of Sports and Leisure, where I worked with user support and technological infrastructure. Feel free to check out more about my internship at <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
