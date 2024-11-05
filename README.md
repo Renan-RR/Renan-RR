@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" min-width="300px" max-width="1500px" width="400px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" min-width="300px" max-width="1500px" width="475px" align="right" alt="Imagem de apresentação" style="margin-left: 20px;">
 
 <p align="left"> 
 
@@ -17,7 +17,7 @@
 
 
 
-- Atualmente eu me desenvolvocada vez mais em linguagens de programação, sistemas operacionais e aperfeiçoando meu inglês! 💼🖱️
+- Atualmente eu me desenvolvo cada vez mais em linguagens de programação, sistemas operacionais e cada dia sigo aperfeiçoando meu inglês! 💼🖱️
 
 <br />
 <br>
