@@ -77,7 +77,7 @@
 
 <p align="left"> 
 
-> My name is Renan Robson! Since I started studying Computer Science in 2021, I have been involved and passionate about this area of ​​technology. I completed an internship in IT at SEME - Municipal Department of Sports and Leisure, where I worked with user support and technological infrastructure. <br> Feel free to check out more about my internship at <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+> My name is Renan Robson! Since I started studying Computer Science in 2021, I have been involved and passionate about this area of ​​technology. I completed an internship in IT at SEME - Municipal Department of Sports and Leisure, where I worked with user support and technological infrastructure. Feel free to check out more about my internship at <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
