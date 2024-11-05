@@ -4,7 +4,7 @@
 </div>
 <br>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" width="500px" align="right" alt="Imagem de apresentação" style="margin-left: 5000px;">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" width="500px" align="right" alt="Imagem de apresentação" style="margin-left: 5000 px;">
 
 <p align="left"> 
 
