@@ -8,7 +8,7 @@
 
  <p align="left">
 
-> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação em 2021 na Universidade Municipal de São Caetano do Sul, em me envolvo nessa área de tecnologia cada vez mais. Concluí meu estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação na Universidade Municipal de São Caetano do Sul, eu me envolvo nessa área de tecnologia cada vez mais. Concluí meu estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
@@ -69,7 +69,7 @@
 
 <p align="left">
 
-> My name is Renan Robson! Since starting my Computer Science studies at Universidade Municipal de São Caetano do Sul in 2021, I've become deeply engaged in technology. I completed an IT internship at SEME (Municipal Department of Sports and Leisure), focusing on user support and infrastructure. Feel free to learn more about my internship on <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+> My name is Renan Robson! Since starting my Computer Science studies at Universidade Municipal de São Caetano do Sul, I've become deeply engaged in technology. I completed an IT internship at SEME (Municipal Department of Sports and Leisure), focusing on user support and infrastructure. Feel free to learn more about my internship on <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
