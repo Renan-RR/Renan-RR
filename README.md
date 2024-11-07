@@ -8,7 +8,7 @@
 
  <p align="left">
 
-> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação na Universidade Municipal de São Caetano do Sul, eu me envolvo nessa área de tecnologia cada vez mais. Concluí o estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte a usuários e infraestrutura. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
+> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação na Universidade Municipal de São Caetano do Sul, eu me envolvo nessa área de tecnologia cada vez mais. Concluí o estágio em TI na SEME - Secretaria Municipal de Esporte e Lazer, onde atuei com suporte ao usuários e infraestrutura. Fique à vontade para conferir mais sobre meu estágio no <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694">Notion</a>.
 
 </p>
 
