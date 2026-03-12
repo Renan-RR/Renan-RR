@@ -3,11 +3,12 @@
 ### Sobre mim 🙋🏼‍♂️
 </div>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" width="500px" align="right" alt="Imagem de apresentação">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" width="450px" align="right" alt="Imagem de apresentação">
 
  <p align="left">
 
-> Me chamo Renan Robson! Desde que iniciei meus estudos em Ciência da Computação na USCS, venho me desenvolvendo na área de tecnologia, com atuação em infraestrutura e ambientes corporativos. Tenho experiência com redes (TCP/IP, switches), sistemas Windows e Linux e ambientes Microsoft 365. Sou certificado AWS Cloud Practitioner e ITIL 4 Foundation, com conhecimento em arquitetura AWS envolvendo VPC, IAM e EC2.
+> Me chamo Renan Robson! Desde que iniciei meus estudos em Ciência da Computação na USCS, venho me desenvolvendo na área de tecnologia, atuando em infraestrutura e ambientes corporativos. Tenho experiência com redes (TCP/IP, switches), sistemas Windows e Linux e ambientes Microsoft 365. Sou certificado AWS Cloud Practitioner e ITIL 4 Foundation, com conhecimento em arquitetura AWS envolvendo VPC, IAM e EC2.
+
 </p>
 
 
@@ -15,7 +16,7 @@
 
 
 
-> Atualmente aprofundo meus conhecimentos em computação em nuvem, linguagens de programação e sistemas operacionais, enquanto sigo evoluindo meu inglês. 📚💻
+> Atualmente aprofundo meus conhecimentos em computação em nuvem, linguagens de programação e sistemas operacionais, enquanto continuo evoluindo meu inglês. 📚💻
 
 <br />
 <br>
