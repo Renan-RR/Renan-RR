@@ -1,12 +1,8 @@
-<div align="center">
+<h3 align="center">Sobre mim 🙋🏻‍♂️</h3>
 
-### Sobre mim 🙋🏻‍♂️
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" width="450px" align="right" alt="Imagem de apresentação">
-
-<p align="left">
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
 > Me chamo Renan Robson! Profissional de TI com foco em suporte técnico e infraestrutura, com experiência em redes (TCP/IP, switches), sistemas Windows e Linux e ambientes Microsoft 365. Certificado AWS Cloud Practitioner e ITIL 4 Foundation, com conhecimento em arquitetura AWS envolvendo VPC, IAM e EC2. Atualmente cursando Ciência da Computação pela USCS.
 
@@ -14,9 +10,12 @@
 
 > Atualmente aprofundo meus conhecimentos em computação em nuvem, linguagens de programação e sistemas operacionais, além de seguir evoluindo meu inglês. 📚💻
 
-</p>
-
-<br>
+   </td>
+    <td valign="top" width="45%">
+      <img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" width="450px" align="right" alt="Imagem de apresentação">
+    </td>
+  </tr>
+</table>
 <br>
 
 <div align="center">
