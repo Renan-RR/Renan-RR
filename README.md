@@ -7,7 +7,7 @@
 
  <p align="left">
 
-> Me chamo Renan Robson! Profissional de TI com atuação em infraestrutura e ambientes corporativos, com experiência em redes (TCP/IP, switches), sistemas Windows e Linux e ambientes Microsoft 365. Certificado AWS Cloud Practitioner e ITIL 4 Foundation, com conhecimento em arquitetura AWS envolvendo VPC, IAM e EC2. Atualmente cursando Ciência da Computação pela USCS.
+> Me chamo Renan Robson! Desde que iniciei meus estudos em Ciência da Computação na USCS, venho me desenvolvendo na área de tecnologia, com atuação em infraestrutura e ambientes corporativos. Tenho experiência com redes (TCP/IP, switches), sistemas Windows e Linux e ambientes Microsoft 365. Sou certificado AWS Cloud Practitioner e ITIL 4 Foundation, com conhecimento em arquitetura AWS envolvendo VPC, IAM e EC2.
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 
-> Atualmente aprofundo meus conhecimentos em computação em nuvem, linguagens de programação e sistemas operacionais, além de seguir evoluindo meu inglês. 📚💻
+> Atualmente aprofundo meus conhecimentos em computação em nuvem, linguagens de programação e sistemas operacionais, enquanto sigo evoluindo meu inglês. 📚💻
 
 <br />
 <br>
@@ -71,8 +71,7 @@
 
 <p align="left">
 
->My name is Renan Robson! IT professional focused on technical support and infrastructure, with experience in networks (TCP/IP, switches), Windows and Linux systems and Microsoft 365 environments. AWS Cloud Practitioner and ITIL 4 Foundation certified, with knowledge of AWS architecture involving VPC, IAM and EC2. Currently pursuing a degree in Computer Science at USCS.
-
+> My name is Renan Robson! Since I started studying Computer Science at USCS, I have been developing my career in technology, working with infrastructure and corporate environments. I have experience with networks (TCP/IP, switches), Windows and Linux systems, and Microsoft 365 environments. I am certified as an AWS Cloud Practitioner and ITIL 4 Foundation, with knowledge of AWS architecture involving VPC, IAM and EC2.
 </p>
 
 
@@ -80,7 +79,7 @@
 
 
 
-> I am currently deepening my knowledge in cloud computing, programming languages and operating systems, while continuing to improve my English. 📚💻
+> Currently, I am deepening my knowledge in cloud computing, programming languages and operating systems, while continuing to improve my English. 📚💻
 
 <br />
 <br>
