@@ -28,7 +28,6 @@
 <p align="left">
 
 <p align="center">
-  <a href="https://warp-lodge-609.notion.site/Relat-rio-de-est-gio-de-tecnologia-134faf0fe89a809cb2c8f64f759a8694"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
   <a href="https://www.linkedin.com/in/renan-robson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:renan.robson.almeida@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://wa.me/5511974474422"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a> <br>
