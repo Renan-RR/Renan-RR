@@ -67,7 +67,6 @@
   
 ### About me 🙋🏼‍♂️
 </div>
-<br>
 
 <img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/welcome%20to%20my%20github.gif" width="442px" align="right" alt="Imagem de apresentação">
 
