@@ -3,7 +3,7 @@
 ### Sobre mim 🙋🏼‍♂️
 </div>
 
-<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" width="362px" align="right" alt="Imagem de apresentação">
+<img src="https://raw.githubusercontent.com/Renan-RR/GIFREADme/refs/heads/main/Seja%20bem-vindo(a)!.gif" width="361px" align="right" alt="Imagem de apresentação">
 
  <p align="left">
 
