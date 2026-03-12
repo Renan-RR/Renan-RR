@@ -7,8 +7,7 @@
 
  <p align="left">
 
-> Me chamo Renan Robson! Profissional de TI com foco em suporte técnico e infraestrutura, com experiência em redes (TCP/IP, switches), sistemas Windows e Linux e ambientes Microsoft 365. Certificado AWS Cloud Practitioner e ITIL 4 Foundation, com conhecimento em arquitetura AWS envolvendo VPC, IAM e EC2. Atualmente cursando Ciência da Computação pela USCS.
-
+> Me chamo Renan Robson! Profissional de TI com atuação em infraestrutura e ambientes corporativos, com experiência em redes (TCP/IP, switches), sistemas Windows e Linux e ambientes Microsoft 365. Certificado AWS Cloud Practitioner e ITIL 4 Foundation, com conhecimento em arquitetura AWS envolvendo VPC, IAM e EC2. Atualmente cursando Ciência da Computação pela USCS.
 </p>
 
 
