@@ -69,7 +69,7 @@
 
 <p align="left">
 
-> My name is Renan Robson! Since I started studying Computer Science at USCS, I have been developing knowledge in technologies that support corporate systems with high availability and reliability, focusing on infrastructure, cloud computing and system architecture. I work with IT support and infrastructure, with experience in networks (TCP/IP, switches), Windows and Linux systems, and Microsoft 365. I am certified as an AWS Cloud Practitioner and ITIL 4, with knowledge of AWS architecture involving VPC, IAM, EC2 and S3, and I continuously expand my skills in cloud and infrastructure technologies.
+> My name is Renan Robson! Since I started studying Computer Science at USCS, I have been deepening my knowledge in technologies that support corporate environments with high availability and reliability, focusing on infrastructure, cloud computing and system architecture. I work with IT support and infrastructure in corporate environments, with experience in networks (TCP/IP, switches), Windows and Linux systems, and Microsoft 365. I am currently certified as an AWS Cloud Practitioner and ITIL 4, with knowledge of AWS architecture involving VPC, IAM, EC2 and S3.
 
 </p>
 
