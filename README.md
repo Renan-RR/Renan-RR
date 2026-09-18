@@ -7,7 +7,7 @@
 
  <p align="left">
 
-> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação pela USCS, venho me aprofundando em tecnologias que asseguram ambientes corporativos com alta disponibilidade e confiabilidade, com foco em infraestrutura, computação em nuvem e arquitetura de sistemas. Atuo com suporte e infraestrutura de TI em ambientes corporativos, com experiência em redes (TCP/IP, switches), sistemas Windows e Linux e Microsoft 365. Atualmente, sou certificado AWS Cloud Practitioner e ITIL 4, com conhecimento em arquitetura AWS envolvendo VPC, IAM, EC2 e S3.
+> Me chamo Renan Robson! Desde que comecei a estudar Ciência da Computação pela USCS, venho me aprofundando em tecnologias que asseguram ambientes corporativos com alta disponibilidade e confiabilidade, com foco em infraestrutura, computação em nuvem e arquitetura de sistemas. Atuo com observabilidade e infraestrutura de TI em ambientes corporativos, com experiência em redes (TCP/IP, switches), sistemas Windows e Linux e Microsoft 365, Grafana, Splunk e Jira. Atualmente, sou formado em Ciência da Computação, certificado AWS Cloud Practitioner e ITIL 4, com conhecimento em arquitetura AWS envolvendo VPC, IAM, EC2 e S3.
 
 </p>
 
@@ -42,11 +42,14 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) <br>
 ![Terraform](https://img.shields.io/badge/Terraform-%2385B35C.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white&logoSize=auto)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 </p>
 </div>
 
@@ -69,7 +72,7 @@
 
 <p align="left">
 
-> My name is Renan Robson! Since I started studying Computer Science at USCS, I have been deepening my knowledge in technologies that support corporate systems with high availability, focusing on infrastructure, cloud computing and system architecture. I work with IT support and infrastructure in corporate environments, with experience in networks (TCP/IP, switches), Windows and Linux systems, and Microsoft 365. I am certified as an AWS Cloud Practitioner and ITIL 4, with knowledge of AWS architecture involving VPC, IAM, EC2 and S3.
+> My name is Renan Robson! Since I started studying Computer Science at USCS, I have been deepening my knowledge in technologies that support corporate systems with high availability, focusing on infrastructure, cloud computing and system architecture. I work with observability and IT infrastructure in corporate environments, with experience in networks (TCP/IP, switches), Windows and Linux systems, and Microsoft 365, Grafana, Splunk, and Jira. I hold a degree in Computer Science and certifications in AWS Cloud Practitioner and ITIL 4, with knowledge of AWS architecture involving VPC, IAM, EC2 and S3.
 
 </p>
 
@@ -103,11 +106,13 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) <br>
 ![Terraform](https://img.shields.io/badge/Terraform-%2385B35C.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white&logoSize=auto)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 </p>
 </div>
